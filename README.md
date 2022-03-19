@@ -1,0 +1,1 @@
+# classiccolor.vim
